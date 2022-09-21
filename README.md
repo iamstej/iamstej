@@ -8,7 +8,7 @@ I'm stej, a platform engineer from the U.K. who has been living in Germany for 3
 
 ### 🙋 About Me
 
-- 🔭 I’m currently working at [Dine](https://dines.co.uk) and have been here for 3+ years.
+- 🔭 I’m currently working at [Dines](https://dines.co.uk) and have been here for 3+ years.
 - 🚀 I’m currently working on a python library called [sqlaf](https://github.com/iamstej/sqlaf).
 - 🌱 I’m currently learning about event driven microservices.
 - 🤝 I'm looking to collaborate on any open source projects, please feel free to get in touch.
