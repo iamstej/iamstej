@@ -4,7 +4,7 @@
 
 ### 👋 Hi
 
-I'm stej, a platform engineer from the U.K. who has been living in Germany for 3+ years. I have been in the software industry for 8+ years, 3 years working in mobile development and 5 years in backend development (django, serverless framework etc.) and dev ops (cloud infrastructure, aws, ci/cd etc.). I have a passion for building scalable and reliable distributed systems using serverless technologies. 
+I'm stej, a senior platform engineer from the U.K. who has been living in Germany for 3+ years. I have been in the software industry for 8+ years, 3 years working in mobile development and 5 years in backend development (django, serverless framework etc.) and dev ops (cloud infrastructure, aws, ci/cd etc.). I have a passion for building scalable and reliable distributed systems using serverless technologies. 
 
 ### 🙋 About Me
 
